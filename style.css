@@ -1,0 +1,25 @@
+.mar{
+    margin-bottom:300px;
+    margin-top: 300px;
+}
+.pad{
+    margin-bottom: 10px;
+}
+.btn{
+    width:20%;    
+    border-radius: 12px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #979696;
+    opacity: 1; /* Firefox */;
+    font-style: italic;
+  }
+input{
+    background-color:#e6e6e6;   
+    border:#e6e6e6;
+    border-radius: 12px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 40%;
+    padding-left: 30px;
+}
